@@ -1,0 +1,81 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\Beni\Desktop\school\274\Lab4\SYSTEM\simulation\qsim
+vsystem
+Z1 I9=hAJdnNKEEA=V`@4zfOm3
+Z2 VZ`idLYKYK1Bo_GAmbd1Lj3
+Z3 dC:\Users\Beni\Desktop\school\274\Lab4\SYSTEM\simulation\qsim
+Z4 w1679363109
+Z5 8system.vo
+Z6 Fsystem.vo
+L0 31
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 o-work work -O0
+!i10b 1
+Z9 !s100 G_^zjdFUQWX;O0z^X495j1
+!s85 0
+Z10 !s108 1679363110.658000
+Z11 !s107 system.vo|
+Z12 !s90 -work|work|system.vo|
+!s101 -O0
+vsystem_vlg_check_tst
+!i10b 1
+!s100 D1OV3zzaGGOFm7=Um0_?M2
+I7gMkZg1IgRn;7M6J8Qz4]2
+V]>jW?_3Uf?O[A48z<j[Sz1
+R3
+Z13 w1679363108
+Z14 8system.vt
+Z15 Fsystem.vt
+L0 59
+R7
+r1
+!s85 0
+31
+Z16 !s108 1679363110.835000
+Z17 !s107 system.vt|
+Z18 !s90 -work|work|system.vt|
+!s101 -O0
+R8
+vsystem_vlg_sample_tst
+!i10b 1
+!s100 WQV<3ehEmzU<VIPhDa2U81
+IIeX=bPUdi4^E=<_45inko2
+VjnIK04Yhf3WV:8P<ekdGA3
+R3
+R13
+R14
+R15
+L0 29
+R7
+r1
+!s85 0
+31
+R16
+R17
+R18
+!s101 -O0
+R8
+vsystem_vlg_vec_tst
+!i10b 1
+!s100 H_>Q:F6gl[eQk9>LNaaf71
+I[LdK]5E<@55>DE@7mn3Y92
+VMV6N<MTGDi@[cDDc[l[Of2
+R3
+R13
+R14
+R15
+L0 1960
+R7
+r1
+!s85 0
+31
+R16
+R17
+R18
+!s101 -O0
+R8
