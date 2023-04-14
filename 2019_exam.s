@@ -112,6 +112,8 @@ gs_loop:
 	br		gs_loop
 	
 gs_loop_end:
+	movi	r4, 0x00
+	stb		r4, 0(r3)
 	
 	ldw		ra, 12(sp)
 	ldw		r2, 8(sp)
